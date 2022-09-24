@@ -54,3 +54,9 @@ ___
 ## Imagens
 Há varias maneiras de se inserir uma imagem (inserindo direto dos seus arquivos; inserindo da pasta raíz do projeto; inserindo de uma URL da internet; etc.).
 Irei demonstrar como inserir imagens direto da pasta raíz do projeto:
+
+![MegaCat](images/megacat-2.png)
+![Daft-PunktoCat Thomas](images/daftpunktocat-thomas.png)
+![Daft-PunktoCat Guy](images/daftpunktocat-guy.png)
+![SteroidtoCat](images/steroidtocat.png)
+
