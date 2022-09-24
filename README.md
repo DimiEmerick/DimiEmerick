@@ -7,7 +7,7 @@ Olá, meu nome é **Dimitrios** *(mais conhecido como Dimi)*, e este é o meu pe
 ## Conhecimentos
 No momento estou **começando** neste mundo de programação, então meu conhecimento é bem limitado, mas já tive contato com:
 
-* ![Logo HTML]() HTML5
+* ![Logo HTML](images/html.png) HTML5
 * ![Logo CSS]() CSS3
 * ![Logo JS]() JavaScript
 * ![Logo PY]() Python
