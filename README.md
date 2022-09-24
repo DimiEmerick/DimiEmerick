@@ -8,11 +8,11 @@ Olá, meu nome é **Dimitrios** *(mais conhecido como Dimi)*, e este é o meu pe
 No momento estou **começando** neste mundo de programação, então meu conhecimento é bem limitado, mas já tive contato com:
 
 * ![Logo HTML](images/html.png) HTML5
-* ![Logo CSS]() CSS3
-* ![Logo JS]() JavaScript
-* ![Logo PY]() Python
-* ![Logo JAVA]() Java
-* ![Logo C++]() C++
+* ![Logo CSS](images/css.png) CSS3
+* ![Logo JS](images/javascript.png) JavaScript
+* ![Logo PY](images/python.png) Python
+* ![Logo JAVA](images/java.png) Java
+* ![Logo C++](images/cpp.png) C++
 
 Essas são as linguagens que estou trabalhando no momento:
 
@@ -25,6 +25,6 @@ Para um contato mais direto e com maior probabilidade de resposta rápida, estou
 
 Caso queira me seguir em alguma outra rede social:
 
-* ![Logo LinkedIn]() [LinkedIn](https://www.linkedin.com/in/dimítrios-emerick-18a555209/)
-* ![Logo Twitter]() [Twitter](https://twitter.com/Myster_DMT)
-* ![Logo Instagram]() [Instagram](https://www.instagram.com/mysterdmt07/)
+* ![Logo LinkedIn](images/linkedin.png) [LinkedIn](https://www.linkedin.com/in/dimítrios-emerick-18a555209/)
+* ![Logo Twitter](images/twitter.png) [Twitter](https://twitter.com/Myster_DMT)
+* ![Logo Instagram](images/instagram.png) [Instagram](https://www.instagram.com/mysterdmt07/)
