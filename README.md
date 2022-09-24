@@ -14,7 +14,7 @@ No momento estou **começando** neste mundo de programação, então meu conheci
 * ![Logo JAVA](images/java.png) Java
 * ![Logo C++](images/cpp.png) C++
 
-Essas são as linguagens que estou trabalhando no momento:
+Essas são as linguagens que estou desenvolvendo no momento:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DimiEmerick&layout=compact)
 
