@@ -53,10 +53,21 @@ ___
 
 ## Imagens
 Há varias maneiras de se inserir uma imagem (inserindo direto dos seus arquivos; inserindo da pasta raíz do projeto; inserindo de uma URL da internet; etc.).
-Irei demonstrar como inserir imagens direto da pasta raíz do projeto:
 
+Irei demonstrar como inserir imagens direto da pasta raíz do projeto.
+
+Insira **exclamação(!)** seguido de **colchetes fechados([])**, e logo depois **parênteses fechados(())**, dentro dos colchetes você vai inserir o texto alternativo da imagem, e dentro dos parênteses, o caminho da imagem em si.
+
+### Meus Octocats Favoritos
 ![MegaCat](images/megacat-2.png)
-![Daft-PunktoCat Thomas](images/daftpunktocat-thomas.png)
-![Daft-PunktoCat Guy](images/daftpunktocat-guy.png)
+![Daft-PunktoCat Thomas](images/daftpunktocat-thomas.gif)
+![Daft-PunktoCat Guy](images/daftpunktocat-guy.gif)
 ![SteroidtoCat](images/steroidtocat.png)
+
+Para inserir **_links_**, faça a mesma coisa que anteriormente mas dessa vez sem a exclamação no começo.
+
+[Linguagem Markdown](https://github.com/DimiEmerick/DimiEmerick/edit/main/LEIAME.md#linguagem-markdown)
+
+Obs.: Em vez de texto alternativo, o conteúdo dos colchetes será o texto do _hyperlink_.
+___
 
