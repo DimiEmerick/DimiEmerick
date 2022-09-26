@@ -19,6 +19,9 @@ ___
 Mais conhecido como "quote", é uma forma de inserir citações de outras pessoas.
 > Isso é uma citação
 ___
+### Riscado
+Este é um ~~texto riscado~~. Para colocá-lo, insira dois símbolos de til(~) em volta do texto.
+___
 
 ## Listas
 
