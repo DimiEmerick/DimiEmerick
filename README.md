@@ -24,6 +24,7 @@ Essas são as linguagens que estou desenvolvendo no momento:
 ## Contato
 
 Para um contato mais direto e com maior probabilidade de resposta rápida, estou quase sempre online no Discord.
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/315256108174540800?theme=dark&bg=0C1F52&borderRadius:20px&idleMessage:Provavelmente%20dormindo...&hideTimestamp=true)](https://discord.com/users/315256108174540800)
 
 Caso queira me seguir em alguma outra rede social:
