@@ -26,9 +26,3 @@ Essas são as linguagens que estou desenvolvendo no momento:
 Para um contato mais direto e com maior probabilidade de resposta rápida, estou quase sempre online no Discord.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/315256108174540800?theme=dark&bg=0C1F52&borderRadius:20px&idleMessage:Provavelmente%20dormindo...&hideTimestamp=true)](https://discord.com/users/315256108174540800)
-
-Caso queira me seguir em alguma outra rede social:
-
-* ![Logo LinkedIn](images/linkedin.png) [LinkedIn](https://www.linkedin.com/in/dimítrios-emerick-18a555209/)
-* ![Logo Twitter](images/twitter.png) [Twitter](https://twitter.com/Myster_DMT)
-* ![Logo Instagram](images/instagram.png) [Instagram](https://www.instagram.com/mysterdmt07/)
