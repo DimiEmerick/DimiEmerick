@@ -5,7 +5,7 @@ Olá, meu nome é **Dimitrios** *(mais conhecido como Dimi)*, e este é o meu pe
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DimiEmerick?cardType=github&theme=city-lights)](https://git.io/awesome-stats-card)
 
 ## Conhecimentos
-No momento estou **começando** neste mundo de programação, então meu conhecimento é bem limitado, mas já tive contato com:
+Já tive contato com:
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
