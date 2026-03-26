@@ -20,9 +20,3 @@ No momento estou **começando** neste mundo de programação, então meu conheci
 Essas são as linguagens que estou desenvolvendo no momento:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimiEmerick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contato
-
-Para um contato mais direto e com maior probabilidade de resposta rápida, estou quase sempre online no Discord.
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/315256108174540800?theme=dark&bg=0C1F52&borderRadius:20px&idleMessage:Provavelmente%20dormindo...&hideTimestamp=true)](https://discord.com/users/315256108174540800)
